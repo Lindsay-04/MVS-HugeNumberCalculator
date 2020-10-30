@@ -140,10 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataTypes\DoublyLinkedList.c" />
+    <ClCompile Include="IHMHugeNumber\ScanHugeNumber.c" />
+    <ClCompile Include="IHMHugeNumber\ShowHugeNumber.c" />
     <ClCompile Include="MVS HugeNumberCalculator.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataTypes\DoublyLinkedList.h" />
+    <ClInclude Include="IHMHugeNumber\ScanHugeNumber.h" />
+    <ClInclude Include="IHMHugeNumber\ShowHugeNumber.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
