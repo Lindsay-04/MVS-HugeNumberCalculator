@@ -18,5 +18,8 @@
     <ClCompile Include="MVS HugeNumberCalculator.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
