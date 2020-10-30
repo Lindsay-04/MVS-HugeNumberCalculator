@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DataTypes\DoublyLinkedList.c" />
     <ClCompile Include="MVS HugeNumberCalculator.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataTypes\DoublyLinkedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
