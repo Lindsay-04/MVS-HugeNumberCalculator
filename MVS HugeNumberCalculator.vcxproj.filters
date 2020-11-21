@@ -18,8 +18,48 @@
     <ClCompile Include="MVS HugeNumberCalculator.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+     dev_lot1
     <ClCompile Include="main.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="DataTypes\DoublyLinkedList.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="IHMHugeNumber\ScanHugeNumber.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="IHMHugeNumber\ShowHugeNumber.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="UseHugeNumber\Operator\HugeFloatOperator.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="UseHugeNumber\Operator\HugeIntOperator.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="UseHugeNumber\Operator\HugeUnsignedIntOperator.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataTypes\DoublyLinkedList.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="IHMHugeNumber\ScanHugeNumber.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="IHMHugeNumber\ShowHugeNumber.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="UseHugeNumber\Operator\HugeFloatOperator.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="UseHugeNumber\Operator\HugeIntOperator.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="UseHugeNumber\Operator\HugeUnsignedIntOperator.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+ release_stub
   </ItemGroup>
 </Project>

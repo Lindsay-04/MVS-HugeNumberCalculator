@@ -139,8 +139,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+ dev_lot1
     <ClCompile Include="main.c" />
+    <ClCompile Include="DataTypes\DoublyLinkedList.c" />
+    <ClCompile Include="IHMHugeNumber\ScanHugeNumber.c" />
+    <ClCompile Include="IHMHugeNumber\ShowHugeNumber.c" />
+release_stub
     <ClCompile Include="MVS HugeNumberCalculator.c" />
+    <ClCompile Include="UseHugeNumber\Operator\HugeFloatOperator.c" />
+    <ClCompile Include="UseHugeNumber\Operator\HugeIntOperator.c" />
+    <ClCompile Include="UseHugeNumber\Operator\HugeUnsignedIntOperator.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataTypes\DoublyLinkedList.h" />
+    <ClInclude Include="IHMHugeNumber\ScanHugeNumber.h" />
+    <ClInclude Include="IHMHugeNumber\ShowHugeNumber.h" />
+    <ClInclude Include="UseHugeNumber\Operator\HugeFloatOperator.h" />
+    <ClInclude Include="UseHugeNumber\Operator\HugeIntOperator.h" />
+    <ClInclude Include="UseHugeNumber\Operator\HugeUnsignedIntOperator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
