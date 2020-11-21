@@ -18,6 +18,10 @@
     <ClCompile Include="MVS HugeNumberCalculator.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+     dev_lot1
+    <ClCompile Include="main.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
     <ClCompile Include="DataTypes\DoublyLinkedList.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
@@ -56,5 +60,6 @@
     <ClInclude Include="UseHugeNumber\Operator\HugeUnsignedIntOperator.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
+ release_stub
   </ItemGroup>
 </Project>

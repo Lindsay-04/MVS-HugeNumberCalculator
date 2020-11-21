@@ -139,9 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+ dev_lot1
+    <ClCompile Include="main.c" />
     <ClCompile Include="DataTypes\DoublyLinkedList.c" />
     <ClCompile Include="IHMHugeNumber\ScanHugeNumber.c" />
     <ClCompile Include="IHMHugeNumber\ShowHugeNumber.c" />
+release_stub
     <ClCompile Include="MVS HugeNumberCalculator.c" />
     <ClCompile Include="UseHugeNumber\Operator\HugeFloatOperator.c" />
     <ClCompile Include="UseHugeNumber\Operator\HugeIntOperator.c" />
